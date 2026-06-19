@@ -1,21 +1,60 @@
-<<<<<<< HEAD
-# React + Vite
+# 🪼 Yeon's Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built with **React** and **Vite**.
 
-Currently, two official plugins are available:
+This website is an ongoing project where I document my journey as a Computer Science student and creative developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About
 
-## React Compiler
+Hi, I'm **Yeon**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I'm a Computer Science student at **Dongguk University** who enjoys combining technology and creativity.
 
-## Expanding the ESLint configuration
+This portfolio will showcase my projects, skills, and creative works.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# my-website
-My personal portfolio website
->>>>>>> 0e59cad1c9cd9fbf5029a7ff410995d58378dd04
+## Features
+
+* Fixed sidebar navigation
+* Smooth scrolling sections
+* Responsive layout (coming soon)
+* Interactive design elements (planned)
+* Creative works gallery (planned)
+* Live2D character integration (planned)
+
+## Tech Stack
+
+* React
+* Vite
+* JavaScript
+* HTML
+* CSS
+* Git & GitHub
+* Figma
+
+## Sections
+
+* About Me
+* Skills
+* Projects
+* Creative Works
+* Contact
+
+## Project Status
+
+🚧 Currently under development.
+
+## Future Plans
+
+* Add responsive design for tablet and mobile devices
+* Add Live2D character interactions
+* Add project cards with animations
+* Add artwork gallery
+* Improve overall UI/UX with a deep-sea inspired theme
+
+## Author
+
+**Yeon**
+
+Computer Science Student @ Dongguk University
+
+GitHub: https://github.com/yeon2sheep

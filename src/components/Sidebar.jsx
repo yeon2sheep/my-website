@@ -41,7 +41,7 @@ function Sidebar() {
       <div className="social-links">
 
         <a
-          href="https://github.com/본인아이디"
+          href="https://github.com/yeon2sheep"
           target="_blank"
           rel="noreferrer"
         >
